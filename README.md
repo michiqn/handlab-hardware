@@ -11,7 +11,11 @@ digital twin).
   &nbsp;
   <img src="photos/4_finger_render.png" height="320" alt="Render of the 4-finger hand">
 </p>
-<p align="center"><sub>The 4-finger hand (v2): in motion · the real build · the render.</sub></p>
+<p align="center">
+  <img src="GIFs/3finger.gif" height="320" alt="The 3-finger claw moving its fingers">
+  &nbsp;
+  <img src="photos/3finger_hand.JPG" height="320" alt="The 3-finger tendon-driven claw (v1)">
+</p>
 
 > **Work in progress.** Printable parts, bill of materials and an assembly guide are still to come
 > (see [TODO](#todo)).
@@ -39,9 +43,12 @@ in PTFE tubing.
 | `photos/4_finger_ptfe_tubing.JPG` | v2, open, showing the PTFE tendon tubing |
 | `photos/4_finger_render.png` | render of v2 |
 | `photos/hand_3finger_v1.jpg` | v1, the 3-finger claw |
+| `photos/3finger_hand.JPG` | v1, the 3-finger claw (close-up of the base and tendons) |
 | `photos/KraQn.JPG` | KraQn, my first robotic gripper (see below) |
 | `GIFs/4finger.gif` | short loop of v2 moving (shown above) |
 | `GIFs/4finger_gif.mp4` | the original clip (MP4, ~2 s) |
+| `GIFs/3finger.gif` | short loop of v1 moving (shown above) |
+| `GIFs/3finger_video.mp4` | the original clip (MP4, ~1 s) |
 
 All photos are published without location metadata (see the notes in `.gitignore` before adding
 more).
