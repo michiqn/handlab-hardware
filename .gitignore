@@ -1,0 +1,7 @@
+.DS_Store
+# full-res originals carry camera EXIF incl. GPS — never commit; strip before adding to photos/
+photos/originals/
+# Fusion source + office files: local only until you decide what to publish
+cad/*.f3d
+cad/*.pptx
+~$*
