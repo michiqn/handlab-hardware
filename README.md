@@ -5,10 +5,13 @@ Physical build material for the tendon-driven claw hands controlled by
 digital twin).
 
 <p align="center">
-  <img src="photos/hand_4finger_v2.JPG" width="45%" alt="The 4-finger tendon-driven hand (v2)">
+  <img src="GIFs/4finger.gif" height="320" alt="The 4-finger hand moving its fingers">
   &nbsp;
-  <img src="photos/4_finger_render.png" width="45%" alt="Render of the 4-finger hand">
+  <img src="photos/hand_4finger_v2.JPG" height="320" alt="The 4-finger tendon-driven hand (v2)">
+  &nbsp;
+  <img src="photos/4_finger_render.png" height="320" alt="Render of the 4-finger hand">
 </p>
+<p align="center"><sub>The 4-finger hand (v2): in motion · the real build · the render.</sub></p>
 
 > **Work in progress.** Printable parts, bill of materials and an assembly guide are still to come
 > (see [TODO](#todo)).
@@ -37,7 +40,8 @@ in PTFE tubing.
 | `photos/4_finger_render.png` | render of v2 |
 | `photos/hand_3finger_v1.jpg` | v1, the 3-finger claw |
 | `photos/KraQn.JPG` | KraQn, my first robotic gripper (see below) |
-| `GIFs/4finger_gif.mp4` | short clip of v2 moving (MP4, ~2 s) |
+| `GIFs/4finger.gif` | short loop of v2 moving (shown above) |
+| `GIFs/4finger_gif.mp4` | the original clip (MP4, ~2 s) |
 
 All photos are published without location metadata (see the notes in `.gitignore` before adding
 more).
