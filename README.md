@@ -79,7 +79,7 @@ The base/case is in [`cad/kraqn_case.stl`](cad/kraqn_case.stl).
 ## Credits
 
 - **CRAFT hand** — L. Lin, S. Patel, J. Moon, S. Lazebnik, U. Jain (UIUC / UC Irvine).
-  The finger models are derived from CRAFT (MIT, see [`LICENSE-CRAFT`](LICENSE-CRAFT)).
+  The finger models are derived from CRAFT (MIT, see [`third_party/LICENSE-CRAFT`](third_party/LICENSE-CRAFT)).
   Paper: [arXiv:2603.12120](https://arxiv.org/abs/2603.12120) · code/CAD: <https://github.com/craft-hand>
 - **ORCA Hand** by ORCA Dexterity, Inc. (ETH Zürich Soft Robotics Lab) — CC BY 4.0 — the
   ratchet-spool tendon tensioning idea. <https://github.com/orcahand/orcahand_hardware>
