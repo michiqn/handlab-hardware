@@ -30,6 +30,7 @@ in PTFE tubing.
 |------|------|
 | `cad/4_finger_assembled.stl` | the assembled 4-finger hand (single mesh, for viewing) |
 | `cad/motor_handle.stl` | motor handle part |
+| `cad/kraqn_case.stl` | KraQn's base / case (own design) |
 | `photos/hand_4finger_v2.JPG` | v2, the 4-finger hand |
 | `photos/whatever_pose.JPG` | v2 in a pose |
 | `photos/4_finger_ptfe_tubing.JPG` | v2, open, showing the PTFE tendon tubing |
@@ -49,6 +50,8 @@ more).
 logarithmic-spiral arm after the **SpiRobs** paper (see Credits). The spiral arm design comes from
 SpiRobs; the body, the motor base and all of the electronics I designed and built myself, which is
 where I learned soldering and the rest of the hardware basics.
+
+The base/case is in [`cad/kraqn_case.stl`](cad/kraqn_case.stl).
 
 **Next:** a 3-tendon version, when time allows.
 
